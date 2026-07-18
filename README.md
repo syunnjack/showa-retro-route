@@ -8,7 +8,7 @@ Recommended repository name: `showa-retro-route`
 
 ## Domain candidates
 
-First candidate: `showaroute.jp`
+Confirmed domain: `showaroute.jp`
 
 Other candidates:
 
