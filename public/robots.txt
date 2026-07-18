@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://showaroute.jp/sitemap.xml
