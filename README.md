@@ -8,11 +8,11 @@ Recommended repository name: `showa-retro-route`
 
 ## Domain candidates
 
-Confirmed domain: `showaroute.jp`
+Confirmed domain: `https://syunnjack.github.io/showa-retro-route/`
 
 Other candidates:
 
-- `showaroute.jp`
+- `https://syunnjack.github.io/showa-retro-route/`
 - `retromeguri.jp`
 - `jihankimap.jp`
 - `autorest.jp`
