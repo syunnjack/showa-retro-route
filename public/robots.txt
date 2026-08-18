@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://showa-retro-route.vercel.app/sitemap.xml
+Sitemap: https://showaroute.jp/sitemap.xml
